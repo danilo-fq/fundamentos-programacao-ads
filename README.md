@@ -8,7 +8,8 @@ Os exercícios estão organizados em pastas separadas por aulas, facilitando a n
 
 ### Pastas de Aulas
 
-- **Aula_04_python_basico/**: Exercícios básicos de Python.
+- **Aula_04/**: Exercícios de Python da aula 04.
+- **Aula_05/**: Exercícios de Python da aula 05.
 
 ## Como Usar
 
