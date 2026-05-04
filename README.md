@@ -8,8 +8,14 @@ Os exercícios estão organizados em pastas separadas por aulas, facilitando a n
 
 ### Pastas de Aulas
 
+#### Unidade 1
+
 - **Aula_04/**: Exercícios de Python da aula 04.
 - **Aula_05/**: Exercícios de Python da aula 05.
+
+#### Unidade 2
+
+- **Aula_06/**: Exercícios de Python da aula 06 (While).
 
 ## Como Usar
 
